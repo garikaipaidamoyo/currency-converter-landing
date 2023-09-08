@@ -1,0 +1,59 @@
+/* Add your CSS styling here */
+
+/* Style for header section */
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+header img {
+    max-width: 100%;
+}
+
+/* Style for navigation links */
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+/* Style for buttons */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* Style for feature section */
+#features {
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+
+.feature {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.feature img {
+    max-width: 100%;
+}
+
+/* Style for about section */
+#about {
+    padding: 20px;
+}
+
+.team-members a {
+    display: inline-block;
+    margin-right: 10px;
+    color: #007bff;
+    text-decoration: none;
+}
